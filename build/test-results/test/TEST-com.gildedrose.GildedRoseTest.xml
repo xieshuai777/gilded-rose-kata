@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gildedrose.GildedRoseTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-09-23T12:41:02" hostname="qy-MacBook-Pro.local" time="0.01">
+  <properties/>
+  <testcase name="Test that the name is unchanged" classname="com.gildedrose.GildedRoseTest" time="0.007"/>
+  <testcase name="Test that the quality of Aged Bri is good" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test that the quality of Backstage passes is good" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Test that the quality of sulfras is good" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test that the quality is good" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test that the SellIN is good" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
